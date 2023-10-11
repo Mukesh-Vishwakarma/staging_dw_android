@@ -1,0 +1,1 @@
+export 'src/oval_clipper.dart';

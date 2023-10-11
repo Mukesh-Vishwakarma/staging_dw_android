@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547235883977",
+    "project_id": "fir-34560",
+    "storage_bucket": "fir-34560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547235883977:android:c35356c45f60b854cc5618",
+        "android_client_info": {
+          "package_name": "com.mishry.revuer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547235883977-egdpm2lobosfh7ngu00i8degd5mv5ek4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCilkQRrY4kOL67A2ADWgH8F96BSQT7bDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547235883977-egdpm2lobosfh7ngu00i8degd5mv5ek4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
